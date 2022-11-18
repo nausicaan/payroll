@@ -1,0 +1,8 @@
+# Ignore files
+~*
+.DS_Store
+*.dll
+*.exe
+*.exe~
+*.log
+*.work
